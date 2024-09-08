@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "debtzpack:item/raw_alexandrite"
+  }
+}

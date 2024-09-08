@@ -52,6 +52,7 @@ public class DebtzPack {
         // Adding item to ingredient tab
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
             event.accept(ModItems.ALEXANDRITE);
+            event.accept(ModItems.RAW_ALEXANDRITE);
         }
 
     }
